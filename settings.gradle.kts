@@ -17,3 +17,4 @@ dependencyResolutionManagement {
 rootProject.name = "kmmpizza"
 include(":androidApp")
 include(":shared")
+include(":backend")
